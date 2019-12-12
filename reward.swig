@@ -1,5 +1,5 @@
 <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
-  <div>{{ theme.reward.reward_comment }}</div>
+  <div>满分是10分的话，这篇文章你给几分，您的支持将鼓励我继续创作！</div>
   <div class="reward-content">
     	<a id="github" href="{{ theme.reward.Github }}" target="_blank" class="pos-a" title="Github"></a>
       <a href="{{ theme.url }}" target="_blank" id="DonateText" title="ihoey.com">ihoey.com</a>
